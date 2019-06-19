@@ -17,6 +17,7 @@ namespace SalesClient
         //WAA
         public AgregarClienteForm()
         {
+            //fck off
             InitializeComponent();
             cbActive.Checked = true;
         }
