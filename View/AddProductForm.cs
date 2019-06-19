@@ -31,7 +31,7 @@ namespace Producto
             InitializeComponent();
             p = new Product();
             //componentsState(State2.Start);
-            
+            //hola claudia
             cbActive.Checked = true;
         }
         public Product P { get => p; set => p = value; }
